@@ -1,0 +1,10 @@
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.csproj.GenerateResource.cache
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\bin\Debug\RacuosServerInfo3.exe.config
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\bin\Debug\RacuosServerInfo3.exe
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\bin\Debug\RacuosServerInfo3.pdb
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.Properties.Resources.resources
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.exe
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.pdb
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.Form3.resources
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.Form1.resources
+D:\Sample\RacuosServerInfo3\RacuosServerInfo3\obj\Debug\RacuosServerInfo3.Form2.resources
